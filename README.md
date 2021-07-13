@@ -30,6 +30,8 @@ These are the video frames at different substages.
 	Final post processing frame
 </p>
 <br>
+_____
+
 
 ## Stage 2: Estimating traffic density
 ### Idle (queue) and moving (dynamic) density estimation from video file
@@ -48,6 +50,8 @@ Outputs a graph of both densities with time (or frame number, as required).
 	Traffic density vs Frame number
 </p>
 <br>
+_____
+
 
 ## Stage 3: Understanding and analyzing trade-offs
 ### Utility-Runtime trade off analysis of four different models/techniques
@@ -76,3 +80,8 @@ Parameter : x = number of threads
 
 
 Please check stage3 folder for detailed description of each method, with outputs, and the pdf [report](Stage3/Report.pdf) for final conclusions and discussions.
+
+
+ ____
+
+ **NOTE**: Done as a course project for COP290: Design Practices in Computer Science | Prof. Rijurekha Sen | Spring 2021-22.
