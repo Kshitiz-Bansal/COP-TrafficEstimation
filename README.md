@@ -30,7 +30,7 @@ These are the video frames at different substages.
 	Final post processing frame
 </p>
 <br>
-_____
+____
 
 
 ## Stage 2: Estimating traffic density
@@ -49,8 +49,8 @@ Outputs a graph of both densities with time (or frame number, as required).
   <img src="assets/stage2_plot.png" width="500"/><br>
 	Traffic density vs Frame number
 </p>
-<br>
-_____
+
+____
 
 
 ## Stage 3: Understanding and analyzing trade-offs
