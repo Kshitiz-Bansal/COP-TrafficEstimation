@@ -12,16 +12,16 @@ This stage implements the most basic and necessary functions. Typically the came
 The camera angle correction is based on Homography. A Homography is a transformation ( a 3×3 matrix ) that maps the points in one image to the corresponding points in the other image. It can be used for perspective correction, panoramic stitching and virtual advertisments. For more info on homography, please check [this](https://docs.opencv.org/master/d9/dab/tutorial_homography.html) and [this](https://learnopencv.com/homography-examples-using-opencv-python-c/).
 
 <p align="center">
-  <img src="img/stage1_traffic.jpg" width="500"/>
+  <img src="img/stage1_traffic.jpg" width="500"/><br>
 	Unprocessed initial frame
 </p>
 <br>
 <p align="left">
-  <img src="img/stage1_traffic_perspective_corrected.jpg" width="500"/>
+  <img src="img/stage1_traffic_perspective_corrected.jpg" width="500"/><br>
 	Perspective corrected
 </p>
-
+<br>
 <p align="right">
-  <img src="img/stage1_traffic_proceseed.jpg" width="200"/>
+  <img src="img/stage1_traffic_proceseed.jpg" width="200"/><br>
 	Final post processing frame
 </p>
