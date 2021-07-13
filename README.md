@@ -73,3 +73,6 @@ Parameter : x = number of threads
 
 4) Method4: Temporal multi-threading - Different groups of frames (at different time stamps) can be given to different threads for processing.
 Parameter : x = number of threads
+
+
+Please check stage3 folder for detailed description of each method, with outputs, and the pdf [report](Stage3/Report.pdf) for final conclusions and discussions.
