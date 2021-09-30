@@ -84,4 +84,4 @@ Please check stage3 folder for detailed description of each method, with outputs
 
  ____
 
- Course Project | COP290: Design Practices in Computer Science | Prof. Rijurekha Sen | Spring 2021-22.
+ Course Project | Design Practices | Prof. Rijurekha Sen
