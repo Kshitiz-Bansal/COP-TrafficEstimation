@@ -82,6 +82,3 @@ Parameter : x = number of threads
 Please check stage3 folder for detailed description of each method, with outputs, and the pdf [report](Stage3/Report.pdf) for final conclusions and discussions.
 
 
- ____
-
- Course Project | Design Practices | Prof. Rijurekha Sen
